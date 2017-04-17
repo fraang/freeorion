@@ -30,6 +30,7 @@
     (Attack)                                    \
     (Barren)                                    \
     (Basic)                                     \
+    (BattleDetection)                           \
     (BattleScanner)                             \
     (BlackHole)                                 \
     (Blue)                                      \
@@ -354,6 +355,7 @@
 
 #define TOKEN_SEQ_11                            \
     (SetAggressive)                             \
+    (SetBattleDetection)                        \
     (SetCapacity)                               \
     (SetConstruction)                           \
     (SetDamage)                                 \
