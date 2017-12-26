@@ -2161,6 +2161,7 @@ namespace {
             % typical_strength
             % (typical_strength / cost)
             % ship->CurrentMeterValue(METER_BATTLE_DETECTION)
+            % ship->SumCurrentPartMeterValuesForPartClass(METER_MAX_TERTIARY_STAT, PC_DIRECT_WEAPON)
                ).str();
     }
 
