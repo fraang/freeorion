@@ -288,7 +288,8 @@
     (PartDamage)                                \
     (Partial)                                   \
     (PartName)                                  \
-    (PartSecondaryStat)
+    (PartSecondaryStat)                         \
+    (PartTertiaryStat)
 
 #define TOKEN_SEQ_9                             \
     (Parts)                                     \
@@ -378,6 +379,7 @@
     (SetMaxStockpile)                           \
     (SetMaxStructure)                           \
     (SetMaxSupply)                              \
+    (SetMaxTertiaryStat)                        \
     (SetMaxTroops)                              \
     (SetOverlayTexture)                         \
     (SetOwner)                                  \
